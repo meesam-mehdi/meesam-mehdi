@@ -16,8 +16,6 @@
 - 🌱 I’m Currently learning Javascript.
 - 📫 reach me at <a href="meesammehdichanna@gmail.com">meesammehdichanna@gmail.com</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meesam-mehdi&label=Profile%20views&color=0e75b6&style=flat" alt="meesam-mehdi" /> </p>
-
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> </h2>
     <p align="left">
         <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
